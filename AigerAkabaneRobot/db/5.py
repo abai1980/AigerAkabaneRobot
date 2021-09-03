@@ -1,9 +1,9 @@
 from pymongo import InsertOne
 
-from DaisyX.services.mongo import mongodb
-from DaisyX.utils.logger import log
+from AigerAkabaneRobot.services.mongo import mongodb
+from AigerAkabaneRobot.utils.logger import log
 
-log.info("Daisy Database v5")
+log.info("Aiger Akabane Database v5")
 log.info("Feds: migrate to old feds database structure")
 log.info("Starting updating all feds...")
 
