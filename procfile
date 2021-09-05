@@ -1,2 +1,2 @@
-AIGERAKABANEROBOT: python3 -m AigerAkabaneRobot
-ps:scale AIGERAKABANEROBOT=1
+AIGERAKABANE: python3 -m AigerAkabaneRobot
+ps:scale AIGERAKABANE=1
