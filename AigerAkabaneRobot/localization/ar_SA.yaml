@@ -487,31 +487,31 @@ STRINGS:
     big_file: Only files under 50 MB are supported!
     started_importing: بدأ الاستيراد! الرجاء الانتظار...
     bad_file: ملف سيئ! توقع <code>'عام'</code> عمود.
-    file_version_so_new: Exported file version is newer than what Daisy currently supports!
+    file_version_so_new: Exported file version is newer than what Aiger Akabane currently supports!
     imports_locked: Please wait %s before using imports again!
     import_done: تم الاستيراد!
   restrictions:
     user_not_in_chat: User is not in this chat!
     #Kicks
-    kick_DaisyX: بدلاً من محاولة طردي يمكنك قضاء وقتك بشكل أفضل. هذا ممل فقط.
+    kick_AigerAkabane: بدلاً من محاولة طردي يمكنك قضاء وقتك بشكل أفضل. هذا ممل فقط.
     kick_admin: ليس من الأفضل التفكير في طرد المدير.
     kick_self: If you want to kick yourself - just leave this chat. I would rather not see you than look at these pathetic attempts at self-punishment.
     user_kicked: "{user} تم طرده من قبل {admin} في {chat_name}."
     #Mutes
-    mute_DaisyX: في الواقع، سأكون سعيدة بإغلاقك بدلاً من ذلك.
+    mute_AigerAkabane: في الواقع، سأكون سعيدة بإغلاقك بدلاً من ذلك.
     mute_admin: If you think you can shut up an admin, you are wrong!
     mute_self: If you want to mute yourself - just stop talking! Better to thought a fool than open your mouth and remove all doubt.
     user_muted: "{user} تم كتم الصوت بواسطة {admin} في {chat_name}."
-    unmute_DaisyX: في الواقع، أنا لست مكتوما.
+    unmute_AigerAkabane: في الواقع، أنا لست مكتوما.
     unmute_admin: Haha no, try muting him first!
     unmute_self: هل يجب علي كتم صوتك أولاً؟
     user_unmuted: "تم إلغاء كتم {user} بواسطة {admin} في {chat_name}."
     #Bans
-    ban_DaisyX: No, I won't do it! Ask the chat creator to do it!
+    ban_AigerAkabane: No, I won't do it! Ask the chat creator to do it!
     ban_admin: هاها، دعونا <code>/demote</code> أولاً.
     ban_self: لماذا تحاول حظر نفسك؟
     user_banned: "{user} تم حظره من قبل {admin} في {chat_name}."
-    unban_DaisyX: في الواقع، أنا لست محظورة.
+    unban_AigerAkabane: في الواقع، أنا لست محظورة.
     unban_admin: Haha no, try banning him first!
     unban_self: هل يجب أن أمنعك أولاً؟
     user_unband: "{user} تم فك حظره من قبل {admin} في {chat_name}."
@@ -553,7 +553,7 @@ STRINGS:
   #success_remove_rules_note: "Successfully removed rules note in <b>{}</b>."
   greetings:
     default_welcome: "Welcome {mention}! How are you?"
-    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @DaisyXUpdates."
+    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @AigerAkabaneUpdates."
     default_security_note: "Welcome {mention}! Please press button below to verify yourself as human!"
     bool_invalid_arg: حجة غير صالحة، زر <code>المتوقع</code>/<code>كلمة التحقق</code>.
     #/setwelcome
